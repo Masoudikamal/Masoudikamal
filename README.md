@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on a bachelors degree in IT-Cybersecurity
 - 💞️ I’m looking to collaborate on any projects for improving my skills further
 - 📫 How to reach me kaal020@student.kristiania.com
-- ⚡ Fun fact: I in love with Tiramisu...and food in general.
 
 <!---
 Masoudikamal/Masoudikamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
