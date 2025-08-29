@@ -40,6 +40,10 @@ Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan l
   Påviste sårbarhet, samlet `netsh trace` og viste HTTP-innlogging i Wireshark.  
   https://github.com/Masoudikamal/ms17-010-eternalblue-trace-lab
 
+- Algoritmer & datastrukturer — sortering (Java)
+  Implementerte Bubble, Insertion, Merge og Quick i Java; rapport + kjøreinstruksjoner.
+  https://github.com/Masoudikamal/algorithms-and-datastructures
+
 - **ArtifactManager (Java OOP)**  
   Konsollapp som lagrer/leser historiske gjenstander via JDBC/MySQL.  
   https://github.com/Masoudikamal/ArtifactManager
