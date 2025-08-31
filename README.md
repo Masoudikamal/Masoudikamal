@@ -40,6 +40,10 @@ Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan l
   Påviste sårbarhet, samlet `netsh trace` og viste HTTP-innlogging i Wireshark.  
   <https://github.com/Masoudikamal/ms17-010-eternalblue-trace-lab>
 
+- **WZDU35.exe — nettverk → fil → minne (triage-lab)**
+  Triage av wzdu35.exe fra PCAP → statisk analyse → ClamAV/YARA → minne (Volatility 3).
+  <https://github.com/Masoudikamal/wzdu35-malware-analysis>
+
 - **Algoritmer & datastrukturer — sortering (Java)**  
   Implementerte Bubble, Insertion, Merge og Quick i Java; rapport + kjøreinstruksjoner.  
   <https://github.com/Masoudikamal/algorithms-and-datastructures>
