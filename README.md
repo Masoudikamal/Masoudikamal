@@ -32,6 +32,10 @@ Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan l
   Injiserte `hook.js`; offer dukker opp i BeEF; *Details* viser origin/cookies/hostname (sladdet).  
   <https://github.com/Masoudikamal/beef-xss-dvwa-lab>
 
+- **Splunk trusseljakt (Botsv1)**  
+  Jeg undersøker Botsv1 i Splunk: kartlegger indekser og protokoller, avdekker HTTP-angrep mot ireallynotbatman.com, identifiserer servere (IIS/porter), og viser POST-skjemaer med username/passwd. Alt i et     fiktivt, isolert labmiljø.
+  <https://github.com/Masoudikamal/ThreatHunting-Splunk-Botsv1>
+
 - **Mimikatz NTLM → John the Ripper**  
   Hentet NTLM for lab-bruker og bekreftet passord ved cracking.  
   <https://github.com/Masoudikamal/mimikatz-ntlm-crack-lab>
