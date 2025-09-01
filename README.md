@@ -1,6 +1,6 @@
 # Hei, jeg er Kamal 👋
 
-Student og sikkerhetsentusiast som bygger små, ryddige labber og tydelige README-er.  
+Cybersikkerhetstudent og sikkerhetsentusiast som bygger små og store prosjekter i programmering, hacking, triage og masse mer. Prosjektene kommer med tydelige README-filer.  
 Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan lære av det**.
 
 ---
@@ -8,18 +8,18 @@ Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan l
 ## Om meg
 - 🎓 Student med fokus på **IT-sikkerhet** og **programmering** (Java, C & Python)
 - 🔍 Interessert i **offensiv sikkerhet** (pentesting) og **blue-team** (logging, nettverksspor)
-- 🧰 Jobber praktisk: lager **fiktive labmiljøer**, dokumenterer steg og legger ved sladdede skjermbilder
+- 🧰 Jobber praktisk: lager **fiktive labmiljøer**, dokumenterer steg og legger ved skjermbilder
 - ✍️ Skriver på norsk/engelsk – prioriterer **lesbarhet** og **etikklinjer** i alle repoer
 
 ## Hva jeg jobber med nå
 - Publiserer utvalgte **pentest-labber** (XSS/BeEF, vsftpd-backdoor, Mimikatz/NTLM, MS17-010 + nettverksspor)
-- Rydder opp i skoleprosjekter (f.eks. **ArtifactManager** i Java) og gir dem gode README-er
+- Rydder opp i hobby- og skoleprosjekter (f.eks. **ArtifactManager** i Java) og gir dem gode README-filer
 - Bygger en fast struktur for bevis (`images/`), eksempelfiler og “Lab only”-disclaimer
 
 ## Teknologi jeg bruker
-- **Sikkerhet:** Nmap, Metasploit, BeEF, Mimikatz, John the Ripper, Wireshark  
+- **Sikkerhet:** Nmap, Metasploit, BeEF, Mimikatz, John the Ripper, Wireshark, etc.  
 - **Plattformer:** Kali Linux, Windows (Server/Client)  
-- **Dev:** C, Java, GCC/Make, JDBC/MySQL, IntelliJ, Git/GitHub
+- **Dev:** C, Java, Python, JDBC/MySQL, IntelliJ, Git/GitHub
 
 ---
 
