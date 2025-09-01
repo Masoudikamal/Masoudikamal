@@ -6,7 +6,7 @@ Jeg liker å forklare **hva jeg gjorde, hvorfor jeg gjorde det, og hva man kan l
 ---
 
 ## Om meg
-- 🎓 Student med fokus på **IT-sikkerhet** og **programmering**
+- 🎓 Student med fokus på **IT-sikkerhet** og **programmering** (Java, C & Python)
 - 🔍 Interessert i **offensiv sikkerhet** (pentesting) og **blue-team** (logging, nettverksspor)
 - 🧰 Jobber praktisk: lager **fiktive labmiljøer**, dokumenterer steg og legger ved sladdede skjermbilder
 - ✍️ Skriver på norsk/engelsk – prioriterer **lesbarhet** og **etikklinjer** i alle repoer
